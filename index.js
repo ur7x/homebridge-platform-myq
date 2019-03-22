@@ -30,7 +30,7 @@ function MyQPlatform(log, config) {
     self.log = log;
     if(config.brand !== 'Craftsman') {
         self.host = 'https://myqexternal.myqdevice.com';
-        self.appId = 'NWknvuBd7LoFHfXmKNMBcgajXtZEgKUh4V7WNzMidrpUUluDpVYVZx+xT4PCM5Kx';
+        self.appId = 'JVM/G9Nwih5BwKgNCjLxiFUQxQijAebyyg8QUHr7JOrP+tuPb8iHfRHKwTmDzHOu';
     } else {
         self.host = 'https://craftexternal.myqdevice.com';
         self.appId = 'OA9I/hgmPHFp9RYKJqCKfwnhh28uqLJzZ9KOJf1DXoo8N2XAaVX6A1wcLYyWsnnv';
